@@ -1,0 +1,56 @@
+{
+    "admin": {
+        "password": "admin123",
+        "role": "admin"
+    },
+    "Aaaaa": {
+        "password": "Aaaaa123",
+        "role": "user",
+        "servers": [
+            {
+                "server_id": "62972b5a",
+                "link": "62972b5a",
+                "login_url": "/62972b5a/login",
+                "dashboard_url": "/62972b5a/home",
+                "full_link": "http://localhost:5000/62972b5a/home",
+                "type": "python",
+                "ram": "256MB",
+                "disk": "1GB",
+                "status": "stopped",
+                "pid": null,
+                "created": "2026-10-28 12:48:02.655533",
+                "expiry": "2026-11-27 12:48:01.580561",
+                "main_file": "main.py",
+                "requirements_file": "requirements.txt",
+                "cpu_limit": 79,
+                "rate_limit_exceeded": false,
+                "stopped_by_user": false
+            }
+        ]
+    },
+    "Aa": {
+        "password": "Aa",
+        "role": "user",
+        "servers": [
+            {
+                "server_id": "97e26de6",
+                "link": "97e26de6",
+                "login_url": "/97e26de6/login",
+                "dashboard_url": "/97e26de6/home",
+                "full_link": "http://localhost:5000/97e26de6/home",
+                "type": "python",
+                "ram": "512MB",
+                "disk": "1GB",
+                "status": "stopped",
+                "pid": null,
+                "created": "2026-10-28 13:03:03.354768",
+                "expiry": "2026-11-27 13:03:02.991707",
+                "main_file": "main.py",
+                "requirements_file": "requirements.txt",
+                "cpu_limit": 80,
+                "rate_limit_exceeded": false,
+                "stopped_by_user": false
+            }
+        ]
+    }
+}
